@@ -1,1 +1,1 @@
-print("Welcome to git")
+k=input("enter the string")
